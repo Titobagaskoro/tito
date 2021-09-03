@@ -6,3 +6,6 @@ rencana
 -flutter
 -CodeIgniter
 -plugin
+
+mau nambah JS
+eh Jquery juga
