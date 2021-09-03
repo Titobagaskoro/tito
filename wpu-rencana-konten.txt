@@ -7,4 +7,6 @@ rencana
 -CodeIgniter
 -plugin
 
-mau nambah joomla
+mau nambah JS
+eh Jquery juga
+
