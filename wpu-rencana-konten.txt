@@ -8,3 +8,4 @@ rencana
 -plugin
 
 mau nambah JS
+eh Jquery juga
