@@ -6,6 +6,7 @@ rencana
 -flutter
 -CodeIgniter
 -plugin
+-CI
 
 mau nambah JS
 eh Jquery juga
